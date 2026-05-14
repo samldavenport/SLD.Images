@@ -1,3 +1,6 @@
 [submodule "SLD.Algorithms"]
 	path = SLD.Algorithms
 	url = https://github.com/samldavenport/SLD.Algorithms
+[submodule "SLD.Core"]
+	path = SLD.Core
+	url = https://github.com/samldavenport/SLD.Core
