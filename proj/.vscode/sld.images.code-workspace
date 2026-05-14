@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../..",
+			"name": "SLD.Images"
+		},
+		{
+			"path": "../../SLD.Algorithms",
+			"name": "SLD.Algorithms"
+		},
+		{
+			"path": "../../SLD.Core",
+			"name": "SLD.Core"
+		},
+	],
+	"settings": {}
+}
